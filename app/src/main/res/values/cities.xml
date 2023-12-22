@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Crée la liste des villes -->
+    <string-array name="priority">
+        <item>safi</item>
+        <item>Jadida</item>
+        <item>casa</item>
+    </string-array>
+</resources>
